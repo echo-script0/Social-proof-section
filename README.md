@@ -15,6 +15,7 @@ Users should be able to:
 ![Preview](image.png)
 
 ### Live Site Url
+https://echo-script0.github.io/Social-proof-section/
 
 ### Built with
 
